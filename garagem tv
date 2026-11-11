@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/512px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS & REGIONAIS",TV Cultura (Sinal Direto Oficial)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TV_Brasil_logo_2023.svg/512px-TV_Brasil_logo_2023.svg.png" group-title="CANAIS ABERTOS & REGIONAIS",TV Brasil (Sinal Direto EBC)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/512px-Marca_rede_brasil_rgb-color.png" group-title="CANAIS ABERTOS & REGIONAIS",Rede Brasil RBTV (Sinal Direto Oficial)
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="CANAIS ABERTOS & REGIONAIS",ISTV HD (Sinal Direto Oficial)
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="CANAIS ABERTOS & REGIONAIS",TVE RS (Sinal Direto Procergs)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_Futura_2022.svg/512px-Canal_Futura_2022.svg.png" group-title="CANAIS ABERTOS & REGIONAIS",Canal Futura (Sinal Direto Oficial)
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_Aparecida_logo_2016.png/512px-TV_Aparecida_logo_2016.png" group-title="CANAIS ABERTOS & REGIONAIS",TV Aparecida (Sinal Direto Oficial)
+http://168.197.104.22:80/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Canção Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/TV_Can%C3%A7%C3%A3o_Nova_logo.png/512px-TV_Can%C3%A7%C3%A3o_Nova_logo.png" group-title="CANAIS ABERTOS & REGIONAIS",TV Canção Nova (Sinal Direto Oficial)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rede_Vida_logo_2015.png/512px-Rede_Vida_logo_2015.png" group-title="CANAIS ABERTOS & REGIONAIS",Rede Vida (Sinal Direto Oficial)
+http://186.219.52.187:80/rede_vida/index.m3u8
+#EXTINF:-1 tvg-id="Culturafast.br" tvg-name="CULTURA FAST HD¹" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/thumbnail.jpg" group-title="CANAIS ABERTOS & REGIONAIS",CULTURA FAST HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1000092561.ts
+#EXTINF:-1 tvg-id="Bemtv.br" tvg-name="BEM MAIS TV HD¹" tvg-logo="https://googleplusimages.com/BEMMAISTV.png" group-title="CANAIS ABERTOS & REGIONAIS",BEM MAIS TV HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/413169181.ts
+#EXTINF:-1 tvg-id="Tvbrasil.pt" tvg-name="TV BRASIL INTERNACIONAL HD¹" tvg-logo="https://googleplusimages.com/TVBRASIL.png" group-title="CANAIS ABERTOS & REGIONAIS",TV BRASIL INTERNACIONAL HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1057808497.ts
+#EXTINF:-1 tvg-id="Tvbrasilba.br" tvg-name="TVE BAHIA FHD¹" tvg-logo="https://googleplusimages.com/TVEBAHIA.png" group-title="CANAIS ABERTOS & REGIONAIS",TVE BAHIA FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1298167201.ts
+#EXTINF:-1 tvg-name="REDETV RECIFE HD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV RECIFE HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1707147783.ts
+#EXTINF:-1 tvg-name="TV VITORIA PERNAMBUCO HD¹" tvg-logo="https://www.edmarlyra.com/wp-content/uploads/2020/08/145A63DC-6EBF-4B20-8ABA-E54479B5D077.jpeg" group-title="CANAIS ABERTOS & REGIONAIS",TV VITORIA PERNAMBUCO HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2083415234.ts
+#EXTINF:-1 tvg-id="Culturape.br" tvg-name="TV NOVA NORDESTE HD¹" tvg-logo="https://googleplusimages.com/TVNOVA.png" group-title="CANAIS ABERTOS & REGIONAIS",TV NOVA NORDESTE HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1342309296.ts
+#EXTINF:-1 tvg-id="Tvbrasilrs.br" tvg-name="TVE RS HD¹" tvg-logo="https://googleplusimages.com/TVBRASIL.png" group-title="CANAIS ABERTOS & REGIONAIS",TVE RS HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/293464377.ts
+#EXTINF:-1 tvg-id="Amazonsat.br" tvg-name="AMAZON SAT FHD¹" tvg-logo="https://googleplusimages.com/AMAZONSAT.png" group-title="CANAIS ABERTOS & REGIONAIS",AMAZON SAT FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/817125547.ts
+#EXTINF:-1 tvg-id="Mbcbrtv.br" tvg-name="MBC BRASIL HD¹" tvg-logo="https://googleplusimages.com/MBCBRASIL.png" group-title="CANAIS ABERTOS & REGIONAIS",MBC BRASIL HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1449885722.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! TOCANTINS FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV! TOCANTINS FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/709695157.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="IMPERIAL TV MARANHAO FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",IMPERIAL TV MARANHAO FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1822622779.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="TV GUARA CAXIAS FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",TV GUARA CAXIAS FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1577744694.ts
+#EXTINF:-1 tvg-name="TV PETROPOLIS HD+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a63097bcfe4786a82f447d9cadae57f.webp" group-title="CANAIS ABERTOS & REGIONAIS",TV PETROPOLIS HD+
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/452686578.ts
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="REDE MINAS HD¹" tvg-logo="http://googleplusimages.com/REDEMINAS.png" group-title="CANAIS ABERTOS & REGIONAIS",REDE MINAS HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/333419709.ts
+#EXTINF:-1 tvg-name="TV GUARAPARI HD¹" tvg-logo="https://googleplusimages.com/TVGUARAPARI.png" group-title="CANAIS ABERTOS & REGIONAIS",TV GUARAPARI HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1590013152.ts
+#EXTINF:-1 tvg-id="Redetvdf.br" tvg-name="TV BRASILIA HD¹" tvg-logo="https://googleplusimages.com/REDETV!.png" group-title="CANAIS ABERTOS & REGIONAIS",TV BRASILIA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/328518264.ts
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="REDE MINAS HD²" tvg-logo="http://googleplusimages.com/REDEMINAS.png" group-title="CANAIS ABERTOS & REGIONAIS",REDE MINAS HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1343150550.ts
+#EXTINF:-1 tvg-id="Tvdiarioce.br" tvg-name="TV DIÁRIO CE HD¹" tvg-logo="https://googleplusimages.com/TVDIARIO.png" group-title="CANAIS ABERTOS & REGIONAIS",TV DIÁRIO CE HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1174950923.ts
+#EXTINF:-1 tvg-id="Tvdiarioce.br" tvg-name="TV DIÁRIO CE HD²" tvg-logo="https://googleplusimages.com/TVDIARIO.png" group-title="CANAIS ABERTOS & REGIONAIS",TV DIÁRIO CE HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/964650861.ts
+#EXTINF:-1 tvg-id="Tvparanaturismo.br" tvg-name="TV PARANA TURISMO HD³" tvg-logo="https://i.imgur.com/uYG5Qql.png" group-title="CANAIS ABERTOS & REGIONAIS",TV PARANA TURISMO HD³
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1626355740.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP FHD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV! SP FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1301366925.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP H265²" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV! SP H265²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/782496894.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP HD¹" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV! SP HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2001179127.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! SP HD²" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV! SP HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/42455788.ts
+#EXTINF:-1 tvg-id="Redetvsp.br" tvg-name="REDETV! RS HD" tvg-logo="https://i.imgur.com/BA42JzV.png" group-title="CANAIS ABERTOS & REGIONAIS",REDETV! RS HD
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/906516597.ts
+#EXTINF:-1 tvg-id="Tvacritica.br" tvg-name="TV A CRITICA HD¹" tvg-logo="https://googleplusimages.com/TVACRITICA.png" group-title="CANAIS ABERTOS & REGIONAIS",TV A CRITICA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2056279150.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD¹" tvg-logo="https://googleplusimages.com/CULTURA.png" group-title="CANAIS ABERTOS & REGIONAIS",TV CULTURA FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1783289045.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD¹" tvg-logo="https://i.imgur.com/zbIF1bs.png" group-title="CANAIS ABERTOS & REGIONAIS",TV CULTURA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/200741334.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD²" tvg-logo="https://i.imgur.com/zbIF1bs.png" group-title="CANAIS ABERTOS & REGIONAIS",TV CULTURA HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1689337102.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="REDE CULTURA DO PARÁ HD¹" tvg-logo="https://i.imgur.com/dQNPTTv.png" group-title="CANAIS ABERTOS & REGIONAIS",REDE CULTURA DO PARÁ HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/8231965.ts
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD²" tvg-logo="https://i.ibb.co/c8PhcZ1/d334NZ3.png" group-title="CANAIS ABERTOS & REGIONAIS",TV BRASIL HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/952761228.ts
+#EXTINF:-1 tvg-id="Tvbrasilba.br" tvg-name="TVE BAHIA HD¹" tvg-logo="https://googleplusimages.com/TVEBAHIA.png" group-title="CANAIS ABERTOS & REGIONAIS",TVE BAHIA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/426686502.ts
+#EXTINF:-1 tvg-id="Tvgazetasp.br" tvg-name="TV GAZETA HD¹" tvg-logo="https://googleplusimages.com/TVGAZETA.png" group-title="CANAIS ABERTOS & REGIONAIS",TV GAZETA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2102293824.ts
+#EXTINF:-1 tvg-id="Redemaisfamalia.br" tvg-name="REDE MAIS FAMILIA HD¹" tvg-logo="https://googleplusimages.com/REDEMAISFAMILIA.png" group-title="CANAIS ABERTOS & REGIONAIS",REDE MAIS FAMILIA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2135527486.ts
+#EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESCTV FHD¹" tvg-logo="https://googleplusimages.com/SESCTV.png" group-title="CANAIS ABERTOS & REGIONAIS",SESCTV FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1236830453.ts
+#EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV HD¹" tvg-logo="https://googleplusimages.com/ISTV.png" group-title="CANAIS ABERTOS & REGIONAIS",ISTV HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/813006619.ts
+#EXTINF:-1 tvg-name="TV BRASIL CENTRAL HD¹" tvg-logo="https://googleplusimages.com/TVCULTURA.png" group-title="CANAIS ABERTOS & REGIONAIS",TV BRASIL CENTRAL HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/724838895.ts
+
+# ==============================================================
+# GLOBO (CAPITAIS & AFILIADAS)
+# ==============================================================
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="TV PARAÍBA FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV PARAÍBA FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/366904941.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SUBAÉ FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SUBAÉ FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/55287611.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SUBAÉ HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SUBAÉ HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1566208087.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SANTA CRUZ FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SANTA CRUZ FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/604955005.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SANTA CRUZ HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SANTA CRUZ HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/834923380.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SUDOESTE HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SUDOESTE HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1579804358.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SÃO FRANCISCO FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SÃO FRANCISCO FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1663376257.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SÃO FRANCISCO FHD²" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SÃO FRANCISCO FHD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/218472118.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SÃO FRANCISCO HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SÃO FRANCISCO HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1065990738.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV SÃO FRANCISCO HD²" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV SÃO FRANCISCO HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1469551794.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV OESTE FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV OESTE FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/998561704.ts
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="TV OESTE HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV OESTE HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/593523270.ts
+#EXTINF:-1 tvg-id="Asabrancape.br" tvg-name="TV ASA BRANCA FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV ASA BRANCA FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2147030618.ts
+#EXTINF:-1 tvg-id="Asabrancape.br" tvg-name="TV ASA BRANCA HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV ASA BRANCA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1921259303.ts
+#EXTINF:-1 tvg-id="Tvgranderio.br" tvg-name="TV GRANDE RIO FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV GRANDE RIO FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2036926157.ts
+#EXTINF:-1 tvg-id="Tvgranderio.br" tvg-name="TV GRANDE RIO HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV GRANDE RIO HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/117679551.ts
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="TV PARAÍBA HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV PARAÍBA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1431076307.ts
+#EXTINF:-1 tvg-id="Intertvcb.br" tvg-name="INTERTV COSTA BRANCA FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",INTERTV COSTA BRANCA FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/2138495419.ts
+#EXTINF:-1 tvg-id="Intertvcb.br" tvg-name="INTERTV COSTA BRANCA HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",INTERTV COSTA BRANCA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1765262431.ts
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="TV VERDES MARES CARIRI FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV VERDES MARES CARIRI FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1252160487.ts
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="TV VERDES MARES CARIRI HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV VERDES MARES CARIRI HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1557778483.ts
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="TV ALVORADA FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV ALVORADA FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/410442521.ts
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="TV ALVORADA HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV ALVORADA HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1435155519.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE IMPERATRIZ FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE IMPERATRIZ FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1843537129.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE IMPERATRIZ HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE IMPERATRIZ HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/826911579.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE IMPERATRIZ HD²" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE IMPERATRIZ HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1934235702.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE COCAIS FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE COCAIS FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1929255195.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE COCAIS HD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE COCAIS HD¹
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/1819197830.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE COCAIS HD²" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE COCAIS HD²
+http://line.m3ueditor.com/serve/30b59a0496c25e52/stream/62082336.ts
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="TV MIRANTE BALSAS FHD¹" tvg-logo="https://googleplusimages.com/GLOBO.png" group-title="GLOBO (CAPITAIS & AFILIADAS)",TV MIRANTE BALSAS FHD¹
+http://line.m3ueditor.com/serve/30b59a0496c25
